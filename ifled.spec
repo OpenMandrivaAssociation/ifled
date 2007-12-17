@@ -9,7 +9,6 @@ Release:   %{release}
 URL:	   http://www.sudac.org/~napolium/linux/
 Source0:   %{name}-%{version}.tar.bz2
 Source1:   %{name}-%{version}-extra.tar.bz2
-BuildRoot: %{_tmppath}/%{name}-buildroot
 License: GPL
 Group:     Monitoring
 Conflicts: ifled-nl
