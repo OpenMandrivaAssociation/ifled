@@ -1,6 +1,6 @@
 %define name ifled
 %define version 0.6
-%define release 13
+%define release 14
 
 Summary:   Flash kbd LEDs to indicate network interface traffic
 Name:      %{name}
