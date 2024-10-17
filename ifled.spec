@@ -6,7 +6,7 @@ Summary:   Flash kbd LEDs to indicate network interface traffic
 Name:      %{name}
 Version:   %{version}
 Release:   %{release}
-URL:	   http://www.sudac.org/~napolium/linux/
+URL:	   https://www.sudac.org/~napolium/linux/
 Source0:   %{name}-%{version}.tar.bz2
 Source1:   %{name}-%{version}-extra.tar.bz2
 patch0:    ifled-0.6.printf.patch
